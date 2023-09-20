@@ -1,0 +1,66 @@
+.feedback-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  height: 40vh;
+  border-radius: 12px;
+}
+.feedback-question {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Roboto';
+  color: #0f172a;
+  margin: 30px;
+}
+.emojis-list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.emoji-btn {
+  border: none;
+  height: 20vh;
+  background-color: none;
+  margin: 20px;
+}
+.emoji {
+  height: 10vh;
+}
+.emoji-name {
+  color: #1e293b;
+  font-size: 12px;
+}
+.thank-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  height: 40vh;
+  border-radius: 12px;
+}
+.app-con {
+  background-image: linear-gradient(#ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.love-emoji {
+  height: 10vh;
+}
+.thank-text {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #0f172a;
+}
+.description {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #0f172a;
+  padding-right: 30px;
+  padding-left: 30px;
+}
